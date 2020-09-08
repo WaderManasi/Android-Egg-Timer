@@ -1,2 +1,2 @@
 ## Android-Egg-Timer ⏳
-A basic Android application : Count down timer 
+ Basic Android application : Count down timer 
